@@ -1,4 +1,4 @@
-# PageTest
+# ZJ practice Angular 2 - Pagination Example with logic like Google
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.0.
 
